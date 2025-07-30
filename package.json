@@ -1,0 +1,82 @@
+{
+  "name": "express-wash-billing",
+  "version": "1.0.0",
+  "description": "Professional Laundry Billing System with 3D Animations",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon server/index.js",
+    "client": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-router-dom": "^6.8.0",
+    "framer-motion": "^10.0.0",
+    "three": "^0.150.0",
+    "@react-three/fiber": "^8.11.0",
+    "@react-three/drei": "^9.65.0",
+    "axios": "^1.3.0",
+    "react-hook-form": "^7.43.0",
+    "react-hot-toast": "^2.4.0",
+    "lucide-react": "^0.263.0",
+    "tailwindcss": "^3.2.7",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "chart.js": "^4.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "date-fns": "^2.29.3",
+    "react-datepicker": "^4.11.0",
+    "react-table": "^7.8.0",
+    "react-select": "^5.7.0",
+    "react-modal": "^3.16.1",
+    "react-confetti": "^6.1.0",
+    "react-spring": "^9.7.3",
+    "react-use-gesture": "^9.1.3",
+    "react-intersection-observer": "^9.4.3",
+    "react-helmet": "^6.1.0",
+    "react-query": "^3.39.3",
+    "zustand": "^4.3.6",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "mysql2": "^3.2.0",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "concurrently": "^7.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@types/three": "^0.150.0",
+    "typescript": "^4.9.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [
+    "react",
+    "laundry",
+    "billing",
+    "3d",
+    "animations",
+    "portfolio",
+    "express-wash",
+    "business-automation"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+} 
