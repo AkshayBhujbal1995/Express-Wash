@@ -260,9 +260,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/akshay-1995-bhujbal/)
+- GitHub: [@yourusername](https://github.com/AkshayBhujbal1995)
+- Portfolio: [Your Portfolio](https://akshaybhujbal1995.github.io/Portfolio-Website/)
 
 ## 🙏 Acknowledgments
 
@@ -274,7 +274,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@expresswash.com or create an issue in this repository.
+For support, email akshay.bhujbal16@gmail.com or create an issue in this repository.
 
 ---
 
