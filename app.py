@@ -56,10 +56,10 @@ st.markdown("""
 
 # Database configuration
 DB_CONFIG = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': '16021995',
-    'database': 'express_wash'
+    'host': st.secrets["DB_HOST"],
+    'user': st.secrets["DB_USER"],
+    'password': st.secrets["DB_PASS"],
+    'database': st.secrets["DB_NAME"]
 }
 
 # Initialize database
