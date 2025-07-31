@@ -1,4 +1,4 @@
-# 🧺 Express Wash - Smart Laundry Billing System
+# 🧺 Express Wash - Smart Laundry Online Billing System
 
 > **Professional Laundry Business Management Solution with Multiple UI Implementations**
 
